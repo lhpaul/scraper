@@ -1,16 +1,12 @@
 'use strict';
 
 var express = require('express');
-var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 var app     = express();
 var Q = require('q');
 
-var By = require('selenium-webdriver').By,
-    until = require('selenium-webdriver').until,
-    http = require('selenium-webdriver').http,
-    firefox = require('selenium-webdriver/firefox');
+var webdriver = require('selenium-webdriver');
 
 refreshCookies();
 var CronJob = require('cron').CronJob;
@@ -22,7 +18,9 @@ new CronJob('0 */10 * * * *', function(){
 var cookies = null;
 
 function refreshCookies(){
-  var driver = new firefox.Driver();
+  var driver = new webdriver.Builder().
+   withCapabilities(webdriver.Capabilities.chrome()).
+   build();
   driver.get('http://civil.poderjudicial.cl/CIVILPORWEB/');
   driver.manage().getCookies().then(function(data_cookies){
     cookies = '';
