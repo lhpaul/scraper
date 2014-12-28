@@ -1,0 +1,918 @@
+[
+  {
+    "number": 2,
+    "name": "1º Juzgado de Letras de Arica"
+  },
+  {
+    "number": 3,
+    "name": "2º Juzgado de Letras de Arica"
+  },
+  {
+    "number": 4,
+    "name": "3º Juzgado de Letras de Arica"
+  },
+  {
+    "number": 5,
+    "name": "3º Juzgado de Letras de Arica Ex 4º"
+  },
+  {
+    "number": 1400,
+    "name": "1º Juzgado De Letras de Arica ex 4°"
+  },
+  {
+    "number": 1401,
+    "name": "2º Juzgado De Letras de Arica ex 4°"
+  },
+  {
+    "number": 6,
+    "name": "Juzgado de Letras y Gar. Pozo Almonte "
+  },
+  {
+    "number": 9,
+    "name": "1º Juzgado de Letras de Iquique "
+  },
+  {
+    "number": 10,
+    "name": "2º Juzgado de Letras de Iquique "
+  },
+  {
+    "number": 11,
+    "name": "3º Juzgado de Letras de Iquique "
+  },
+  {
+    "number": 13,
+    "name": "Juzgado de Letras Tocopilla"
+  },
+  {
+    "number": 14,
+    "name": "Juzgado de Letras y Gar.de Maria Elena"
+  },
+  {
+    "number": 16,
+    "name": "1º Juzgado de Letras de Calama"
+  },
+  {
+    "number": 17,
+    "name": "2º Juzgado de Letras de Calama"
+  },
+  {
+    "number": 26,
+    "name": "Juzgado de Letras y Gar. de Taltal "
+  },
+  {
+    "number": 658,
+    "name": "3º Juzgado de Letras de Calama"
+  },
+  {
+    "number": 1041,
+    "name": "1º Juzgado de Letras Civil de Antofagasta"
+  },
+  {
+    "number": 1042,
+    "name": "2º Juzgado de Letras Civil de Antofagasta"
+  },
+  {
+    "number": 1043,
+    "name": "3º Juzgado de Letras Civil de Antofagasta"
+  },
+  {
+    "number": 1044,
+    "name": "4º Juzgado de Letras Civil de Antofagasta"
+  },
+  {
+    "number": 27,
+    "name": "Juzgado de Letras y Gar. de Chañaral"
+  },
+  {
+    "number": 29,
+    "name": "Juzgado de Letras de Diego de Almagro "
+  },
+  {
+    "number": 31,
+    "name": "1º Juzgado de Letras de Copiapó "
+  },
+  {
+    "number": 32,
+    "name": "2º Juzgado de Letras de Copiapó "
+  },
+  {
+    "number": 33,
+    "name": "3º Juzgado de Letras de Copiapó "
+  },
+  {
+    "number": 34,
+    "name": "Juzgado de Letras y Gar.de Freirina"
+  },
+  {
+    "number": 36,
+    "name": "1º Juzgado de Letras de Vallenar"
+  },
+  {
+    "number": 37,
+    "name": "2º Juzgado de Letras de Vallenar"
+  },
+  {
+    "number": 386,
+    "name": "Juzgado de Letras y Gar.de Caldera "
+  },
+  {
+    "number": 926,
+    "name": "4º Juzgado de Letras de Copiapó "
+  },
+  {
+    "number": 40,
+    "name": "1º Juzgado de Letras de la Serena"
+  },
+  {
+    "number": 41,
+    "name": "2º Juzgado de Letras de la Serena"
+  },
+  {
+    "number": 42,
+    "name": "3º Juzgado de Letras de la Serena"
+  },
+  {
+    "number": 43,
+    "name": "1º Juzgado de Letras de Coquimbo"
+  },
+  {
+    "number": 44,
+    "name": "2º Juzgado de Letras de Coquimbo"
+  },
+  {
+    "number": 45,
+    "name": "3º Juzgado de Letras de Coquimbo"
+  },
+  {
+    "number": 46,
+    "name": "Juzgado de Letras de Vicuña"
+  },
+  {
+    "number": 47,
+    "name": "Juzgado de letras y garantia de Andacollo"
+  },
+  {
+    "number": 48,
+    "name": "1º Juzgado de Letras de Ovalle"
+  },
+  {
+    "number": 49,
+    "name": "2º Juzgado de Letras de Ovalle"
+  },
+  {
+    "number": 50,
+    "name": "3º Juzgado de Letras de Ovalle"
+  },
+  {
+    "number": 51,
+    "name": "Juzgado de Letras y Gar.de Combarbalá "
+  },
+  {
+    "number": 52,
+    "name": "Juzgado de Letras de Illapel "
+  },
+  {
+    "number": 53,
+    "name": "Juzgado de Letras y Gar. de los Vilos "
+  },
+  {
+    "number": 54,
+    "name": "3º Juzgado Civil de Valparaiso"
+  },
+  {
+    "number": 55,
+    "name": "2º Juzgado Civil de Valparaiso"
+  },
+  {
+    "number": 56,
+    "name": "1º Juzgado Civil de Valparaiso"
+  },
+  {
+    "number": 57,
+    "name": "1º Juzgado Civil de Viña del Mar"
+  },
+  {
+    "number": 58,
+    "name": "2º Juzgado Civil de Viña del Mar"
+  },
+  {
+    "number": 59,
+    "name": "4º Juzgado Civil de Valparaiso"
+  },
+  {
+    "number": 60,
+    "name": "5º Juzgado Civil de Valparaiso"
+  },
+  {
+    "number": 61,
+    "name": "3º Juzgado Civil de Viña del Mar"
+  },
+  {
+    "number": 83,
+    "name": "1º Juzgado de Letras de Quilpue "
+  },
+  {
+    "number": 84,
+    "name": "2º Juzgado de Letras de Quilpue "
+  },
+  {
+    "number": 85,
+    "name": "Juzgado de Letras de Villa Alemana "
+  },
+  {
+    "number": 86,
+    "name": "Juzgado de Letras de Casablanca "
+  },
+  {
+    "number": 87,
+    "name": "Juzgado de Letras de La Ligua"
+  },
+  {
+    "number": 88,
+    "name": "Juzgado de Letras y Gar. de Petorca"
+  },
+  {
+    "number": 89,
+    "name": "1º Juzgado de Letras de Los Andes"
+  },
+  {
+    "number": 90,
+    "name": "2º Juzgado de Letras de Los Andes"
+  },
+  {
+    "number": 92,
+    "name": "1º Juzgado de Letras de San Felipe "
+  },
+  {
+    "number": 93,
+    "name": "1º Juzgado de Letras de San Felipe Ex 2º "
+  },
+  {
+    "number": 94,
+    "name": "Juzgado de Letras y Gar.de Putaendo"
+  },
+  {
+    "number": 96,
+    "name": "1º Juzgado de Letras de Quillota"
+  },
+  {
+    "number": 97,
+    "name": "2º Juzgado de Letras de Quillota"
+  },
+  {
+    "number": 98,
+    "name": "Juzgado de Letras de La Calera"
+  },
+  {
+    "number": 99,
+    "name": "Juzgado de Letras de Limache "
+  },
+  {
+    "number": 101,
+    "name": "1º Juzgado de Letras de San Antonio"
+  },
+  {
+    "number": 102,
+    "name": "2º Juzgado de Letras de San Antonio"
+  },
+  {
+    "number": 103,
+    "name": "Juzgado de Letras y Gar. de Isla de Pascua"
+  },
+  {
+    "number": 660,
+    "name": "Juzgado de Letras y Gar.de Quintero"
+  },
+  {
+    "number": 110,
+    "name": "1º Juzgado Civil de Rancagua "
+  },
+  {
+    "number": 969,
+    "name": "2º Juzgado Civil de Rancagua "
+  },
+  {
+    "number": 111,
+    "name": "1º Juzgado de Letras de Rengo"
+  },
+  {
+    "number": 113,
+    "name": "Juzgado de Letras de San Vicente de Tagua Tagua"
+  },
+  {
+    "number": 114,
+    "name": "1º Juzgado de Letras y Gar.de Peumo"
+  },
+  {
+    "number": 115,
+    "name": "1º Juzgado de Letras de San Fernando"
+  },
+  {
+    "number": 116,
+    "name": "2º Juzgado de Letras de San Fernando"
+  },
+  {
+    "number": 117,
+    "name": "1º Juzgado de Letras de Santa Cruz "
+  },
+  {
+    "number": 118,
+    "name": "1º Juzgado De Letras De Santa Cruz Ex 2° "
+  },
+  {
+    "number": 119,
+    "name": "Juzgado de Letras y Gar.de Pichilemu"
+  },
+  {
+    "number": 1150,
+    "name": "Juzgado de Letras y Gar.de Litueche"
+  },
+  {
+    "number": 1151,
+    "name": "Juzgado de Letras y Gar.de Peralillo"
+  },
+  {
+    "number": 122,
+    "name": "1º Juzgado de Letras de Talca"
+  },
+  {
+    "number": 123,
+    "name": "2º Juzgado de Letras de Talca"
+  },
+  {
+    "number": 124,
+    "name": "3º Juzgado de Letras de Talca"
+  },
+  {
+    "number": 125,
+    "name": "4º Juzgado de Letras de Talca"
+  },
+  {
+    "number": 126,
+    "name": "Juzgado de Letras de Constitución"
+  },
+  {
+    "number": 127,
+    "name": "Juzgado De Letras Y Gar. de Curepto"
+  },
+  {
+    "number": 129,
+    "name": "1º Juzgado de Letras de Curico"
+  },
+  {
+    "number": 130,
+    "name": "2º Juzgado de Letras de Curico"
+  },
+  {
+    "number": 131,
+    "name": "2º Juzgado de Letras de Curico Ex 3º"
+  },
+  {
+    "number": 132,
+    "name": "Juzgado De Letras Y Gar. de Licanten"
+  },
+  {
+    "number": 133,
+    "name": "Juzgado de Letras de Molina"
+  },
+  {
+    "number": 135,
+    "name": "1º Juzgado de Letras de Linares "
+  },
+  {
+    "number": 136,
+    "name": "2º Juzgado de Letras de Linares "
+  },
+  {
+    "number": 138,
+    "name": "Juzgado de Letras de San Javier "
+  },
+  {
+    "number": 139,
+    "name": "Juzgado de Letras de Cauquenes"
+  },
+  {
+    "number": 140,
+    "name": "Juzgado de Letras y Gar. de Chanco "
+  },
+  {
+    "number": 141,
+    "name": "Juzgado de Letras de Parral"
+  },
+  {
+    "number": 145,
+    "name": "1º Juzgado Civil de Chillan"
+  },
+  {
+    "number": 146,
+    "name": "2º Juzgado Civil de Chillan"
+  },
+  {
+    "number": 147,
+    "name": "1º Juzgado de Letras de San Carlos "
+  },
+  {
+    "number": 149,
+    "name": "Juzgado de Letras de Yungay"
+  },
+  {
+    "number": 150,
+    "name": "Juzgado de Letras y Gar. de Bulnes "
+  },
+  {
+    "number": 151,
+    "name": "Juzgado de Letras y Gar.de Coelemu "
+  },
+  {
+    "number": 152,
+    "name": "Juzgado de Letras y Gar.de Quirihue"
+  },
+  {
+    "number": 154,
+    "name": "1º Juzgado de Letras de Los Angeles"
+  },
+  {
+    "number": 155,
+    "name": "2º Juzgado de Letras de Los Angeles"
+  },
+  {
+    "number": 156,
+    "name": "2° Juzgado de Letras de Los Angeles ex 3°"
+  },
+  {
+    "number": 157,
+    "name": "Juzgado de Letras y Gar. de Mulchen"
+  },
+  {
+    "number": 158,
+    "name": "Juzgado de Letras y Gar.de Nacimiento "
+  },
+  {
+    "number": 159,
+    "name": "Juzgado de Letras y Gar.de Laja "
+  },
+  {
+    "number": 160,
+    "name": "Juzgado de Letras y Gar.de Yumbel"
+  },
+  {
+    "number": 161,
+    "name": "1º Juzgado Civil de Concepción"
+  },
+  {
+    "number": 162,
+    "name": "2º Juzgado Civil de Concepción"
+  },
+  {
+    "number": 163,
+    "name": "3º Juzgado Civil de Concepción"
+  },
+  {
+    "number": 179,
+    "name": "1º Juzgado Civil de Talcahuano"
+  },
+  {
+    "number": 180,
+    "name": "2º Juzgado Civil de Talcahuano"
+  },
+  {
+    "number": 187,
+    "name": "Juzgado de Letras de Tome "
+  },
+  {
+    "number": 188,
+    "name": "Juzgado de Letras y Gar.de Florida "
+  },
+  {
+    "number": 189,
+    "name": "Juzgado de Letras y Gar.de Santa Juana"
+  },
+  {
+    "number": 190,
+    "name": "Juzgado de Letras y Gar. de Lota"
+  },
+  {
+    "number": 191,
+    "name": "1º Juzgado de Letras de Coronel "
+  },
+  {
+    "number": 192,
+    "name": "2º Juzgado de Letras de Coronel "
+  },
+  {
+    "number": 193,
+    "name": "Juzgado de Letras y Gar.de Lebu "
+  },
+  {
+    "number": 194,
+    "name": "Juzgado de Letras de Arauco"
+  },
+  {
+    "number": 195,
+    "name": "Juzgado de Letras y Gar.de Curanilahue"
+  },
+  {
+    "number": 196,
+    "name": "Juzgado de Letras de Cañete"
+  },
+  {
+    "number": 385,
+    "name": "Juzgado de Letras y Gar. Santa Barbara"
+  },
+  {
+    "number": 1152,
+    "name": "Juzgado de Letras y Gar.de Cabrero "
+  },
+  {
+    "number": 197,
+    "name": "1º Juzgado Civil de Temuco"
+  },
+  {
+    "number": 198,
+    "name": "2º Juzgado Civil de Temuco"
+  },
+  {
+    "number": 204,
+    "name": "Juzgado de Letras de Angol"
+  },
+  {
+    "number": 206,
+    "name": "Juzgado de Letras y Gar.de Collipulli "
+  },
+  {
+    "number": 207,
+    "name": "Juzgado de Letras y Gar.de Traiguen"
+  },
+  {
+    "number": 208,
+    "name": "Juzgado de Letras de Victoria"
+  },
+  {
+    "number": 209,
+    "name": "Juzgado de Letras y Gar.de Curacautin "
+  },
+  {
+    "number": 210,
+    "name": "Juzgado de Letras Loncoche"
+  },
+  {
+    "number": 211,
+    "name": "Juzgado de Letras de Pitrufquen "
+  },
+  {
+    "number": 212,
+    "name": "Juzgado de Letras de Villarrica "
+  },
+  {
+    "number": 213,
+    "name": "Juzgado de Letras de Nueva Imperial"
+  },
+  {
+    "number": 214,
+    "name": "Juzgado de Letras y Gar.de Pucon"
+  },
+  {
+    "number": 215,
+    "name": "Juzgado de Letras de Lautaro "
+  },
+  {
+    "number": 216,
+    "name": "Juzgado de Letras y Gar.de Carahue "
+  },
+  {
+    "number": 406,
+    "name": "3º Juzgado Civil de Temuco"
+  },
+  {
+    "number": 946,
+    "name": "Juzgado de Letras y Gar.de Tolten"
+  },
+  {
+    "number": 947,
+    "name": "Juzgado de Letras y Gar.de Puren"
+  },
+  {
+    "number": 220,
+    "name": "1º Juzgado Civil de Valdivia "
+  },
+  {
+    "number": 221,
+    "name": "2º Juzgado Civil de Valdivia "
+  },
+  {
+    "number": 222,
+    "name": "Juzgado de Letras de Mariquina"
+  },
+  {
+    "number": 223,
+    "name": "Juzgado de Letras y Gar.de Paillaco"
+  },
+  {
+    "number": 224,
+    "name": "Juzgado de Letras Los Lagos"
+  },
+  {
+    "number": 225,
+    "name": "Juzgado de Letras y Gar. de Panguipulli"
+  },
+  {
+    "number": 226,
+    "name": "Juzgado de Letras y Gar.de la Union"
+  },
+  {
+    "number": 227,
+    "name": "Juzgado de Letras y Gar.de Rio Bueno"
+  },
+  {
+    "number": 229,
+    "name": "1º Juzgado de Letras de Osorno"
+  },
+  {
+    "number": 230,
+    "name": "2º Juzgado de Letras de Osorno"
+  },
+  {
+    "number": 233,
+    "name": "Juzgado de Letras de Rio Negro"
+  },
+  {
+    "number": 237,
+    "name": "1º Juzgado Civil de Puerto Montt"
+  },
+  {
+    "number": 238,
+    "name": "Juzgado de Letras de Puerto Varas"
+  },
+  {
+    "number": 240,
+    "name": "Juzgado de Letras y Gar.de Calbuco "
+  },
+  {
+    "number": 241,
+    "name": "Juzgado de Letras y Gar. de Maullin"
+  },
+  {
+    "number": 242,
+    "name": "Juzgado de Letras de Castro"
+  },
+  {
+    "number": 243,
+    "name": "Juzgado de Letras de Ancud"
+  },
+  {
+    "number": 244,
+    "name": "Juzgado de Letras y Garantia de Achao "
+  },
+  {
+    "number": 245,
+    "name": "Juzgado de Letras y Gar. de Chaiten"
+  },
+  {
+    "number": 659,
+    "name": "Juzgado de Letras y Gar. de Los Muermos"
+  },
+  {
+    "number": 662,
+    "name": "Juzgado de Letras y Gar. de Quellon"
+  },
+  {
+    "number": 1012,
+    "name": "2º Juzgado Civil de Puerto Montt"
+  },
+  {
+    "number": 1013,
+    "name": "Juzgado de Letras y Gar. de Hualaihue "
+  },
+  {
+    "number": 246,
+    "name": "1º Juzgado de Letras de Coyhaique"
+  },
+  {
+    "number": 247,
+    "name": "1º Juzgado de Letras de Coyhaique Ex 2º"
+  },
+  {
+    "number": 248,
+    "name": "Juzgado de Letras y Gar.de pto.Aysen"
+  },
+  {
+    "number": 249,
+    "name": "Juzgado de Letras y Gar.de Chile Chico"
+  },
+  {
+    "number": 250,
+    "name": "Juzgado de Letras y Gar.de Cochrane"
+  },
+  {
+    "number": 996,
+    "name": "Juzgado de Letras y Gar.de Puerto Cisnes "
+  },
+  {
+    "number": 253,
+    "name": "1º Juzgado de Letras de Punta Arenas"
+  },
+  {
+    "number": 254,
+    "name": "2º Juzgado de Letras de Punta Arenas"
+  },
+  {
+    "number": 255,
+    "name": "3º Juzgado de Letras de Punta Arenas"
+  },
+  {
+    "number": 257,
+    "name": "Juzgado de Letras y Gar. de Puerto Natales"
+  },
+  {
+    "number": 258,
+    "name": "Juzgado de Letras y Gar.de Porvenir"
+  },
+  {
+    "number": 259,
+    "name": "1º Juzgado Civil de Santiago "
+  },
+  {
+    "number": 260,
+    "name": "2º Juzgado Civil de Santiago "
+  },
+  {
+    "number": 261,
+    "name": "3º Juzgado Civil de Santiago "
+  },
+  {
+    "number": 262,
+    "name": "4º Juzgado Civil de Santiago "
+  },
+  {
+    "number": 263,
+    "name": "5º Juzgado Civil de Santiago "
+  },
+  {
+    "number": 264,
+    "name": "6º Juzgado Civil de Santiago "
+  },
+  {
+    "number": 265,
+    "name": "7º Juzgado Civil de Santiago "
+  },
+  {
+    "number": 266,
+    "name": "8º Juzgado Civil de Santiago "
+  },
+  {
+    "number": 267,
+    "name": "9º Juzgado Civil de Santiago "
+  },
+  {
+    "number": 268,
+    "name": "10º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 269,
+    "name": "11º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 270,
+    "name": "12º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 271,
+    "name": "13º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 272,
+    "name": "14º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 273,
+    "name": "15º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 274,
+    "name": "16º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 275,
+    "name": "17º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 276,
+    "name": "18º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 277,
+    "name": "19º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 278,
+    "name": "20º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 279,
+    "name": "21º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 280,
+    "name": "22º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 281,
+    "name": "23º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 282,
+    "name": "24º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 283,
+    "name": "25º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 284,
+    "name": "26º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 285,
+    "name": "27º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 286,
+    "name": "28º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 287,
+    "name": "29º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 288,
+    "name": "30º Juzgado Civil de Santiago"
+  },
+  {
+    "number": 387,
+    "name": "Juzgado de Letras de Colina"
+  },
+  {
+    "number": 9008,
+    "name": "Tribunal Portal"
+  },
+  {
+    "number": 343,
+    "name": "1º Juzgado Civil de San Miguel"
+  },
+  {
+    "number": 344,
+    "name": "2º Juzgado Civil de San Miguel"
+  },
+  {
+    "number": 345,
+    "name": "3º Juzgado Civil de San Miguel"
+  },
+  {
+    "number": 364,
+    "name": "1º Juzgado Civil de Puente Alto "
+  },
+  {
+    "number": 373,
+    "name": "1º Juzgado De Letras De Talagante"
+  },
+  {
+    "number": 374,
+    "name": "2º Juzgado De Letras De Talagante"
+  },
+  {
+    "number": 375,
+    "name": "1º Juzgado de Letras de Melipilla"
+  },
+  {
+    "number": 377,
+    "name": "1º Juzgado de Letras de Buin "
+  },
+  {
+    "number": 378,
+    "name": "2º Juzgado de Letras de Buin "
+  },
+  {
+    "number": 388,
+    "name": "Juzgado de Letras de Peñaflor"
+  },
+  {
+    "number": 390,
+    "name": "4º Juzgado Civil de San Miguel"
+  },
+  {
+    "number": 400,
+    "name": "1º Juzgado de Letras de San Bernardo"
+  },
+  {
+    "number": 401,
+    "name": "2º Juzgado de Letras de San Bernardo"
+  },
+  {
+    "number": 1402,
+    "name": "1º Juzgado de Letras de San Bernardo Ex 3°"
+  },
+  {
+    "number": 1403,
+    "name": "2º Juzgado de Letras de San Bernardo Ex 3°"
+  }
+]
